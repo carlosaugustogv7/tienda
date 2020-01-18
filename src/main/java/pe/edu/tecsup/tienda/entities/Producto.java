@@ -9,7 +9,11 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
-
+/**
+ * 
+ * @author Carlos
+ * Esta clase representa la entidad Productos
+ */
 @Entity
 @Table(name = "productos")
 public class Producto {
