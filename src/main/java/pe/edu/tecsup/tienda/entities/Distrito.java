@@ -9,7 +9,7 @@ import javax.persistence.Table;
 /**
  * 
  * @author Carlos
- * Esta clase representa la entidad Distrito
+ * Esta clase representa la entidad Distrito - Test
  */
 
 @Entity
